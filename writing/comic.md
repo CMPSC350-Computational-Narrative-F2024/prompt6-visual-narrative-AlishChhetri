@@ -1,10 +1,38 @@
-# `TODO`: "Title Comic"
+# History Comes Alive
 
-`TODO`: Use `image` Markdown tags to sequence your images to create
-your overall narrative. These _may_ (should, kinda?) include some
-gesture toward text -- even if placed on the images by the author
-and not the generator.
+![Bored in Class Image](../src/img/bored_in_class_image.png)
 
-This comic should include at _least_ `12` images. Bonus points (not
-really, but you get the idea) for laying out or arranging a comic
-format.
+---
+![Time Travel Begins Image](../src/img/time_travel_begins_image.png)
+
+---
+![Ancient Egypt Image](../src/img/ancient_egypt_image.png)
+
+---
+![Medieval Castle Image](../src/img/medieval_castle_image.png)
+
+---
+![Renaissance Art Image](../src/img/renaissance_art_image.png)
+
+---
+![Industrial Revolution Image](../src/img/industrial_revolution_image.png)
+
+---
+![Early Flight Image](../src/img/early_flight_image.png)
+
+---
+![Historical Scene Image](../src/img/historical_scene_image.png)
+
+---
+![Historic March Image](../src/img/historic_march_image.png)
+
+---
+![Space Exploration Image](../src/img/space_exploration_image.png)
+
+---
+![Back to Class Image](../src/img/back_to_class_image.png)
+
+---
+![History is Amazing! Image](../src/img/history_is_amazing!_image.png)
+
+---
